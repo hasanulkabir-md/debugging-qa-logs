@@ -1,3 +1,5 @@
+---
+
 ````markdown
 # 🐞 Debugging & QA Logs – Flask API
 
@@ -105,7 +107,5 @@ See full debugging diary here:
 👨‍💻 **Author**: Md. Hasanul Kabir
 🔗 [LinkedIn](https://linkedin.com/in/hasanulkabir_md) | [Portfolio](https://your-portfolio.com)
 
-```
-
----
+👉 Do you also want me to write a **1-line repo description** (for the GitHub “About” section) so recruiters see the purpose immediately?
 ```
