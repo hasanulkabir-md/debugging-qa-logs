@@ -26,7 +26,7 @@ The process is documented step by step in [Debugging Logs](./docs/debugging_logs
 
 ### 1. Clone Repo & Setup Virtual Environment
 ```bash
-git clone https://github.com/your-username/debugging-qa-logs.git
+git clone https://github.com/hasanulkabir_md/debugging-qa-logs.git
 cd debugging-qa-logs
 python3 -m venv venv
 source venv/bin/activate
@@ -106,5 +106,6 @@ See full debugging diary here:
 
 👉 Do you also want me to write a **1-line repo description** (for the GitHub “About” section) so recruiters see the purpose immediately?
 ```
+
 
 
